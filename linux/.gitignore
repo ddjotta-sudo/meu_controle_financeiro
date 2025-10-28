@@ -1,1 +1,24 @@
-flutter/ephemeral
+# Flutter/Dart
+.dart_tool/
+.idea/
+.vscode/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+android/.gradle/
+android/app/debug
+android/app/profile
+android/app/release
+pubspec.lock
+*.iml
+*.log
+*.lock
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
