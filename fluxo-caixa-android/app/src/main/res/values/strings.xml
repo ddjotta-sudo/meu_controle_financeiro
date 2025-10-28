@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fluxo de Caixa</string>
+    <string name="welcome_message">Bem-vindo ao gerenciador de fluxo de caixa!</string>
+    <string name="add_transaction">Adicionar Transação</string>
+    <string name="transaction_details">Detalhes da Transação</string>
+    <string name="income">Receita</string>
+    <string name="expense">Despesa</string>
+    <string name="date">Data</string>
+    <string name="amount">Valor</string>
+    <string name="currency">Moeda</string>
+    <string name="category">Categoria</string>
+    <string name="payment_method">Método de Pagamento</string>
+    <string name="note">Nota</string>
+    <string name="status">Status</string>
+    <string name="paid">Pago</string>
+    <string name="pending">Pendente</string>
+    <string name="overdue">Vencido</string>
+    <string name="scan_receipt">Escanear Recibo</string>
+    <string name="apply_fee">Aplicar Taxa</string>
+    <string name="toggle_gross_net">Alternar entre Bruto e Líquido</string>
+    <string name="default_fees">Taxas Padrão</string>
+    <string name="settings">Configurações</string>
+    <string name="error_occurred">Ocorreu um erro. Tente novamente.</string>
+    <string name="transaction_added">Transação adicionada com sucesso!</string>
+</resources>
